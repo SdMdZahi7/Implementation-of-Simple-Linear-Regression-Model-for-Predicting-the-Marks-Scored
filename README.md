@@ -80,7 +80,6 @@ print("MAE = ",mae)
 rmse=np.sqrt(mse)
 print("RMSE = ",rmse)
 ~~~
-~~~
 ## Output:
 ![image](https://user-images.githubusercontent.com/94187572/204814475-c32754ff-81ac-4deb-8237-879fccdd13b9.png)
 ![image](https://user-images.githubusercontent.com/94187572/204814541-748fb670-d518-48db-ba1d-662253632138.png)
